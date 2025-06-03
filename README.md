@@ -1,1 +1,1 @@
-# CEU_Capstone_project_for_BC
+# CEU Capstone project for BC
